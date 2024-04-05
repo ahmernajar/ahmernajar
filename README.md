@@ -44,7 +44,10 @@ This project aims to enhance our understanding of digital social interactions wi
 
 - 📫 Reach out to me at: ahmernajar43@gmail.com
 - 👨‍💻 GitHub: [ahmernajar](https://github.com/ahmernajar)
-- 🤝 LinkedIn: [Ahmer Najar](https://www.linkedin.com/in/ahmer-najar-8619b0164/)
+<p align="left">
+<a href="https://linkedin.com/in/ahmernajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmernajar" height="30" width="40" /></a>
+</p>
+
 
 Interested in collaborating or learning more about my work? Feel free to get in touch!
 

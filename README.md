@@ -2,7 +2,6 @@
 
 Hello there! 👋 I'm Ahmer, a Data Scientist based in Exeter, United Kingdom, passionate about leveraging data to uncover insights and drive innovation. With expertise in Machine Learning, Python programming, and a solid track record in predictive modeling, I'm always ready to tackle complex challenges and contribute to exciting projects.
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/ahmernajar/ahmernajar/assets/42925190/a0d73ae5-4a88-4439-bb77-822e8502dc53)">
 ## About Me
 
 - 🎓 Pursuing a Master's in Data Science at the University of Exeter.

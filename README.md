@@ -4,9 +4,9 @@ Hello there! 👋 I'm Ahmer, a Data Scientist based in Exeter, United Kingdom, p
 
 ## About Me
 
-- 🎓 Pursuing a Master's in Data Science at the University of Exeter.
-- 🎓 Bachelor of Technology in Electronics and Communication from NIT Srinagar, India.
-- 💼 Data Scientist at Tanla Platforms Ltd, where I led significant projects like Anti-Phishing solutions(LLM-based solution to the problem, the first of its kind.), Look-Alike Audience Models, and Churn Modeling.
+- 🎓 Pursuing a Master's in Data Science at the University of Exeter(2023-2024).
+- 🎓 Bachelor of Technology in Electronics and Communication from NIT Srinagar, India(2016-2020).
+- 💼 Data Scientist at Tanla Platforms Ltd, where I led significant projects like Anti-Phishing solutions(LLM-based solution to the problem, the first of its kind.), Look-Alike Audience Models, and Churn Modeling(2020-2023).
 - 🌱 Currently exploring Large Language Models (LLMs) and their myriad applications.
 - 🛠️ **Skills:** Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Python, Data Visualization, Statistical Modelling.
 - 🤖 Proficient in harnessing the power of LLMs, customizing them for unique use cases.

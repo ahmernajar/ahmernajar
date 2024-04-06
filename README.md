@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm Ahmer, a Data Scientist based in Exeter, United Kingdom, passionate about leveraging data to uncover insights and drive innovation. With expertise in Machine Learning, Python programming, and a solid track record in predictive modeling, I'm always ready to tackle complex challenges and contribute to exciting projects.
 
-<img align="right" alt="coding" width="400" src="[https://user-
+<img align="right" alt="coding" width="400" src="https://user-
 images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1NCqXeaXj4PXONdbFED7Lj&ust=1712448035028000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDalpqkrIUDFQAAAAAdAAAAABAE)">
 ## About Me
 

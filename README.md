@@ -46,6 +46,7 @@ This project aims to enhance our understanding of digital social interactions wi
 - 👨‍💻 GitHub: [Ahmer Najar](https://github.com/ahmernajar)
 - 🤝 LinkedIn: [Ahmer Najar](https://www.linkedin.com/in/ahmer-najar-8619b0164/)
 - 📝 Medium: [Ahmer Najar](https://medium.com/@ahmernajar43/)
+- 📊 Kaggle: [Ahmer Najar](https://www.kaggle.com/ahmer1/code/)
 
 Would you be interested in collaborating or learning more about my work? Feel free to get in touch!
 

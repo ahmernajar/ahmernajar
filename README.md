@@ -43,8 +43,9 @@ This project aims to enhance our understanding of digital social interactions wi
 ## Let's Connect!
 
 - 📫 Reach out to me at: ahmernajar43@gmail.com
-- 👨‍💻 GitHub: [ahmernajar](https://github.com/ahmernajar)
+- 👨‍💻 GitHub: [Ahmer Najar](https://github.com/ahmernajar)
 - 🤝 LinkedIn: [Ahmer Najar](https://www.linkedin.com/in/ahmer-najar-8619b0164/)
+- 📝 Medium: [Ahmer Najar] (https://medium.com/@ahmernajar43)
 
-Interested in collaborating or learning more about my work? Feel free to get in touch!
+Would you be interested in collaborating or learning more about my work? Feel free to get in touch!
 
